@@ -4,10 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon index.js"
   },
-  "author": "Abdulaziz-Houry",
+  "author": "",
+  "engines": {
+    "node" : "16.17.0"
+  },
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
